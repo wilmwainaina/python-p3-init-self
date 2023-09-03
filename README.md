@@ -67,7 +67,7 @@ method.
 
 Every time we initialize a new object, the Python interpreter calls a **magic
 method** called `__init__`. **Magic methods** (also called **dunder methods**
-due to their **d**ouble **under**scores) are special methods that are not meant
+due to their **double** **underscores**) are special methods that are not meant
 to be called by developers but are invoked by different cues and operators that
 act on their objects.
 
